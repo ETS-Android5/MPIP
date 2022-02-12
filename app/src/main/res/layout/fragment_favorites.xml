@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#000000">
+
+<TextView
+    android:layout_width="match_parent"
+    android:layout_height="50dp"
+    android:id="@+id/mm1"
+    android:text="Activity"
+    android:textSize="24dp"
+    android:paddingLeft="20dp"
+    android:paddingTop="7dp"
+    android:background="#191716"
+    android:textColor="#FFFFFF"/>
+
+    <ImageView
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_below="@+id/mm1"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/ic_person_add_black_24dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Follow Requests"
+        android:layout_marginTop="65dp"
+        android:layout_marginLeft="80dp"
+        android:textColor="#FFFFFF"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="#5E5956"
+        android:layout_marginTop="85dp"
+        android:layout_marginLeft="80dp"
+        android:text="Approve or ignore requests"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="50dp"
+            android:layout_below="@+id/mm1"
+            android:id="@+id/mm2"
+            android:layout_marginTop="80dp"
+            android:layout_marginLeft="10dp"
+            android:text="This week"
+            android:textSize="24dp"
+            android:textColor="#FFFFFF"/>
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="180dp"
+        android:layout_marginLeft="15dp"
+        android:background="@drawable/ic_cached_black_24dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="#FFFFFF"
+        android:layout_marginTop="185dp"
+        android:layout_marginLeft="45dp"
+        android:text="No results"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:layout_below="@+id/mm1"
+        android:id="@+id/mm3"
+        android:layout_marginTop="170dp"
+        android:layout_marginLeft="10dp"
+        android:text="This month"
+        android:textSize="24dp"
+        android:textColor="#FFFFFF"/>
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="270dp"
+        android:layout_marginLeft="15dp"
+        android:background="@drawable/ic_cached_black_24dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="#FFFFFF"
+        android:layout_marginTop="275dp"
+        android:layout_marginLeft="45dp"
+        android:text="No results"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:layout_below="@+id/mm1"
+        android:id="@+id/mm4"
+        android:layout_marginTop="260dp"
+        android:layout_marginLeft="10dp"
+        android:text="Earlier"
+        android:textSize="24dp"
+        android:textColor="#FFFFFF"/>
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="360dp"
+        android:layout_marginLeft="15dp"
+        android:background="@drawable/ic_cached_black_24dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="#FFFFFF"
+        android:layout_marginTop="365dp"
+        android:layout_marginLeft="45dp"
+        android:text="No results"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="#0862AF"
+        android:layout_marginTop="655dp"
+        android:layout_marginLeft="25dp"
+        android:text="See all suggestions"/>
+
+</RelativeLayout>

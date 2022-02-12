@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TrackMeNew</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="service_not_available">Service not available</string>
+    <string name="invalid_lat_long_used">Invalid coordinates used</string>
+    <string name="no_address_found">No address found</string>
+    <string name="facebook_app_id">282564936377427</string>
+    <string name="fb_login_protocol_scheme">fb282564936377427</string>
+</resources>

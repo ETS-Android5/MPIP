@@ -1,0 +1,356 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Trajche\Desktop\MPIP ZA RECOVERY\3buttona(1)(2)(3)\mpip recovery so gotovi fragments 2del\TrackMyLocationUpdated-master\app\src\main\AndroidManifest.xml:2:1-65:12
+INJECTED from C:\Users\Trajche\Desktop\MPIP ZA RECOVERY\3buttona(1)(2)(3)\mpip recovery so gotovi fragments 2del\TrackMyLocationUpdated-master\app\src\main\AndroidManifest.xml:2:1-65:12
+INJECTED from C:\Users\Trajche\Desktop\MPIP ZA RECOVERY\3buttona(1)(2)(3)\mpip recovery so gotovi fragments 2del\TrackMyLocationUpdated-master\app\src\main\AndroidManifest.xml:2:1-65:12
+INJECTED from C:\Users\Trajche\Desktop\MPIP ZA RECOVERY\3buttona(1)(2)(3)\mpip recovery so gotovi fragments 2del\TrackMyLocationUpdated-master\app\src\main\AndroidManifest.xml:2:1-65:12
+MERGED from [com.android.support:design:26.1.0] C:\Users\Trajche\.gradle\caches\transforms-2\files-2.1\5b44fb940b822d16235c98e3ad1ffbb9\design-26.1.0\AndroidManifest.xml:17:1-31:12
+MERGED from [com.facebook.android:facebook-android-sdk:5.15.3] C:\Users\Trajche\.gradle\caches\transforms-2\files-2.1\e083c1011ecb9a3e9f98d24feb4b5232\facebook-android-sdk-5.15.3\AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-login:5.15.3] C:\Users\Trajche\.gradle\caches\transforms-2\files-2.1\2138b478df4d5971ada02e76df442e91\facebook-login-5.15.3\AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-share:5.15.3] C:\Users\Trajche\.gradle\caches\transforms-2\files-2.1\e39a2db043d5ef744223e15b78f6b870\facebook-share-5.15.3\AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-common:5.15.3] C:\Users\Trajche\.gradle\caches\transforms-2\files-2.1\5bd2685c49270edf9b8b7e67018fb6f7\facebook-common-5.15.3\AndroidManifest.xml:21:1-52:12
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\Trajche\.gradle\caches\transforms-2\files-2.1\72cc02a7fbb4e4eb022060c24d519121\appcompat-v7-27.0.2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Trajche\.gradle\caches\transforms-2\files-2.1\e45e486d2efc791924965d608e1f3e35\constraint-layout-1.0.2\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\Trajche\.gradle\caches\transforms-2\files-2.1\27c4dba95a56485581260edca413d405\play-services-maps-15.0.1\AndroidManifest.xml:17:1-32:12
+MERGED from [com.google.android.gms:play-services-location:15.0.1] C:\Users\Trajche\.gradle\caches\transforms-2\files-2.1\faa1e0ec26a005130e044a5d9ce02e37\play-services-location-15.0.1\AndroidManifest.xml:2:1-9:12
+MERGED from [de.hdodenhof:circleimageview:3.1.0] C:\Users\Trajche\.gradle\caches\transforms-2\files-2.1\adeb9857bb7bfd02c06a591fdc46d5a6\circleimageview-3.1.0\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.volley:volley:1.1.1] C:\Users\Trajche\.gradle\caches\transforms-2\files-2.1\302ec1d6431f7a49f78541fdc9d52b19\volley-1.1.1\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Trajche\.gradle\caches\transforms-2\files-2.1\0c56505611007af95cf12771e34fa4e8\recyclerview-v7-26.1.0\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Trajche\.gradle\caches\transforms-2\files-2.1\0f3b631fa1b04ce6c3f19395e7c8308f\cardview-v7-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Trajche\.gradle\caches\transforms-2\files-2.1\dea1193b635281bdba8e59eb4af72b26\transition-26.1.0\AndroidManifest.xml:17:1-28:12
+MERGED from [com.facebook.android:facebook-places:5.15.3] C:\Users\Trajche\.gradle\caches\transforms-2\files-2.1\054042917778dc54e9a1cdbc7783e2ba\facebook-places-5.15.3\AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-applinks:5.15.3] C:\Users\Trajche\.gradle\caches\transforms-2\files-2.1\6cddbcc6e53d59ddfe50e9061a790a3d\facebook-applinks-5.15.3\AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-messenger:5.15.3] C:\Users\Trajche\.gradle\caches\transforms-2\files-2.1\47ce61e8c69e6d8bee38fc283f0ca4f8\facebook-messenger-5.15.3\AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-core:5.15.3] C:\Users\Trajche\.gradle\caches\transforms-2\files-2.1\0e03e0cac6e9be2aa75fb36f6cd3f136\facebook-core-5.15.3\AndroidManifest.xml:21:1-53:12
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Trajche\.gradle\caches\transforms-2\files-2.1\179f5323169137afef949574776c6071\play-services-base-15.0.1\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-places-placereport:15.0.1] C:\Users\Trajche\.gradle\caches\transforms-2\files-2.1\7a84200ac4b1dd8cb75bb39f886fdb14\play-services-places-placereport-15.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\Trajche\.gradle\caches\transforms-2\files-2.1\5d7304e7af87afbe7e41d28235aae61c\play-services-tasks-15.0.1\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Trajche\.gradle\caches\transforms-2\files-2.1\7b5b8dcfeac40c34728691491a02e009\play-services-basement-15.0.1\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\Trajche\.gradle\caches\transforms-2\files-2.1\2edbab73abb0ed010ac0c1382290b7fd\support-v4-27.0.2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\Trajche\.gradle\caches\transforms-2\files-2.1\c8a01efa0e07374f5ed15f720d18115a\support-fragment-27.0.2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\Trajche\.gradle\caches\transforms-2\files-2.1\f2b9cb991ec44388657d9f7c0c842b78\support-core-utils-27.0.2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customtabs:27.0.2] C:\Users\Trajche\.gradle\caches\transforms-2\files-2.1\5ff07994d3acfd5db59372b80f7c8fee\customtabs-27.0.2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\Trajche\.gradle\caches\transforms-2\files-2.1\c632e57e5b62eb3a0ebaba15a9df6673\animated-vector-drawable-27.0.2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\Trajche\.gradle\caches\transforms-2\files-2.1\ff5f91fc123e28e3f0306f00a86c1639\support-core-ui-27.0.2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\Trajche\.gradle\caches\transforms-2\files-2.1\222c27d2ef82d01f4dd9191aeab9b795\support-media-compat-27.0.2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\Trajche\.gradle\caches\transforms-2\files-2.1\8a5906e891827c98941b3a565266ab69\support-vector-drawable-27.0.2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\Trajche\.gradle\caches\transforms-2\files-2.1\33573a782a2830d26ff38c0ad8420cc7\support-compat-27.0.2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.installreferrer:installreferrer:1.0] C:\Users\Trajche\.gradle\caches\transforms-2\files-2.1\a17173da477941c7a20d841fbee9879d\installreferrer-1.0\AndroidManifest.xml:2:1-13:12
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\Trajche\.gradle\caches\transforms-2\files-2.1\f389a71938b42d8f5c8a19c10fecc48e\runtime-1.0.3\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\Trajche\Desktop\MPIP ZA RECOVERY\3buttona(1)(2)(3)\mpip recovery so gotovi fragments 2del\TrackMyLocationUpdated-master\app\src\main\AndroidManifest.xml:2:1-65:12
+INJECTED from C:\Users\Trajche\Desktop\MPIP ZA RECOVERY\3buttona(1)(2)(3)\mpip recovery so gotovi fragments 2del\TrackMyLocationUpdated-master\app\src\main\AndroidManifest.xml:2:1-65:12
+INJECTED from C:\Users\Trajche\Desktop\MPIP ZA RECOVERY\3buttona(1)(2)(3)\mpip recovery so gotovi fragments 2del\TrackMyLocationUpdated-master\app\src\main\AndroidManifest.xml:2:1-65:12
+	package
+		ADDED from C:\Users\Trajche\Desktop\MPIP ZA RECOVERY\3buttona(1)(2)(3)\mpip recovery so gotovi fragments 2del\TrackMyLocationUpdated-master\app\src\main\AndroidManifest.xml:3:5-44
+		INJECTED from C:\Users\Trajche\Desktop\MPIP ZA RECOVERY\3buttona(1)(2)(3)\mpip recovery so gotovi fragments 2del\TrackMyLocationUpdated-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Trajche\Desktop\MPIP ZA RECOVERY\3buttona(1)(2)(3)\mpip recovery so gotovi fragments 2del\TrackMyLocationUpdated-master\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Trajche\Desktop\MPIP ZA RECOVERY\3buttona(1)(2)(3)\mpip recovery so gotovi fragments 2del\TrackMyLocationUpdated-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Trajche\Desktop\MPIP ZA RECOVERY\3buttona(1)(2)(3)\mpip recovery so gotovi fragments 2del\TrackMyLocationUpdated-master\app\src\main\AndroidManifest.xml:2:1-65:12
+		INJECTED from C:\Users\Trajche\Desktop\MPIP ZA RECOVERY\3buttona(1)(2)(3)\mpip recovery so gotovi fragments 2del\TrackMyLocationUpdated-master\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Trajche\Desktop\MPIP ZA RECOVERY\3buttona(1)(2)(3)\mpip recovery so gotovi fragments 2del\TrackMyLocationUpdated-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Trajche\Desktop\MPIP ZA RECOVERY\3buttona(1)(2)(3)\mpip recovery so gotovi fragments 2del\TrackMyLocationUpdated-master\app\src\main\AndroidManifest.xml:2:1-65:12
+		INJECTED from C:\Users\Trajche\Desktop\MPIP ZA RECOVERY\3buttona(1)(2)(3)\mpip recovery so gotovi fragments 2del\TrackMyLocationUpdated-master\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Trajche\Desktop\MPIP ZA RECOVERY\3buttona(1)(2)(3)\mpip recovery so gotovi fragments 2del\TrackMyLocationUpdated-master\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\Trajche\Desktop\MPIP ZA RECOVERY\3buttona(1)(2)(3)\mpip recovery so gotovi fragments 2del\TrackMyLocationUpdated-master\app\src\main\AndroidManifest.xml:9:5-79
+	android:name
+		ADDED from C:\Users\Trajche\Desktop\MPIP ZA RECOVERY\3buttona(1)(2)(3)\mpip recovery so gotovi fragments 2del\TrackMyLocationUpdated-master\app\src\main\AndroidManifest.xml:9:22-76
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Trajche\Desktop\MPIP ZA RECOVERY\3buttona(1)(2)(3)\mpip recovery so gotovi fragments 2del\TrackMyLocationUpdated-master\app\src\main\AndroidManifest.xml:10:5-67
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\Trajche\.gradle\caches\transforms-2\files-2.1\27c4dba95a56485581260edca413d405\play-services-maps-15.0.1\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\Trajche\.gradle\caches\transforms-2\files-2.1\27c4dba95a56485581260edca413d405\play-services-maps-15.0.1\AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from C:\Users\Trajche\Desktop\MPIP ZA RECOVERY\3buttona(1)(2)(3)\mpip recovery so gotovi fragments 2del\TrackMyLocationUpdated-master\app\src\main\AndroidManifest.xml:10:22-64
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\Trajche\Desktop\MPIP ZA RECOVERY\3buttona(1)(2)(3)\mpip recovery so gotovi fragments 2del\TrackMyLocationUpdated-master\app\src\main\AndroidManifest.xml:11:5-82
+	android:name
+		ADDED from C:\Users\Trajche\Desktop\MPIP ZA RECOVERY\3buttona(1)(2)(3)\mpip recovery so gotovi fragments 2del\TrackMyLocationUpdated-master\app\src\main\AndroidManifest.xml:11:22-62
+application
+ADDED from C:\Users\Trajche\Desktop\MPIP ZA RECOVERY\3buttona(1)(2)(3)\mpip recovery so gotovi fragments 2del\TrackMyLocationUpdated-master\app\src\main\AndroidManifest.xml:13:5-63:19
+MERGED from [com.android.support:design:26.1.0] C:\Users\Trajche\.gradle\caches\transforms-2\files-2.1\5b44fb940b822d16235c98e3ad1ffbb9\design-26.1.0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:design:26.1.0] C:\Users\Trajche\.gradle\caches\transforms-2\files-2.1\5b44fb940b822d16235c98e3ad1ffbb9\design-26.1.0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.facebook.android:facebook-android-sdk:5.15.3] C:\Users\Trajche\.gradle\caches\transforms-2\files-2.1\e083c1011ecb9a3e9f98d24feb4b5232\facebook-android-sdk-5.15.3\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-android-sdk:5.15.3] C:\Users\Trajche\.gradle\caches\transforms-2\files-2.1\e083c1011ecb9a3e9f98d24feb4b5232\facebook-android-sdk-5.15.3\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-login:5.15.3] C:\Users\Trajche\.gradle\caches\transforms-2\files-2.1\2138b478df4d5971ada02e76df442e91\facebook-login-5.15.3\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-login:5.15.3] C:\Users\Trajche\.gradle\caches\transforms-2\files-2.1\2138b478df4d5971ada02e76df442e91\facebook-login-5.15.3\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-share:5.15.3] C:\Users\Trajche\.gradle\caches\transforms-2\files-2.1\e39a2db043d5ef744223e15b78f6b870\facebook-share-5.15.3\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-share:5.15.3] C:\Users\Trajche\.gradle\caches\transforms-2\files-2.1\e39a2db043d5ef744223e15b78f6b870\facebook-share-5.15.3\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-common:5.15.3] C:\Users\Trajche\.gradle\caches\transforms-2\files-2.1\5bd2685c49270edf9b8b7e67018fb6f7\facebook-common-5.15.3\AndroidManifest.xml:29:5-50:19
+MERGED from [com.facebook.android:facebook-common:5.15.3] C:\Users\Trajche\.gradle\caches\transforms-2\files-2.1\5bd2685c49270edf9b8b7e67018fb6f7\facebook-common-5.15.3\AndroidManifest.xml:29:5-50:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Trajche\.gradle\caches\transforms-2\files-2.1\e45e486d2efc791924965d608e1f3e35\constraint-layout-1.0.2\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Trajche\.gradle\caches\transforms-2\files-2.1\e45e486d2efc791924965d608e1f3e35\constraint-layout-1.0.2\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\Trajche\.gradle\caches\transforms-2\files-2.1\27c4dba95a56485581260edca413d405\play-services-maps-15.0.1\AndroidManifest.xml:30:5-20
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\Trajche\.gradle\caches\transforms-2\files-2.1\27c4dba95a56485581260edca413d405\play-services-maps-15.0.1\AndroidManifest.xml:30:5-20
+MERGED from [com.google.android.gms:play-services-location:15.0.1] C:\Users\Trajche\.gradle\caches\transforms-2\files-2.1\faa1e0ec26a005130e044a5d9ce02e37\play-services-location-15.0.1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:15.0.1] C:\Users\Trajche\.gradle\caches\transforms-2\files-2.1\faa1e0ec26a005130e044a5d9ce02e37\play-services-location-15.0.1\AndroidManifest.xml:7:5-20
+MERGED from [de.hdodenhof:circleimageview:3.1.0] C:\Users\Trajche\.gradle\caches\transforms-2\files-2.1\adeb9857bb7bfd02c06a591fdc46d5a6\circleimageview-3.1.0\AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:3.1.0] C:\Users\Trajche\.gradle\caches\transforms-2\files-2.1\adeb9857bb7bfd02c06a591fdc46d5a6\circleimageview-3.1.0\AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.1.1] C:\Users\Trajche\.gradle\caches\transforms-2\files-2.1\302ec1d6431f7a49f78541fdc9d52b19\volley-1.1.1\AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.1.1] C:\Users\Trajche\.gradle\caches\transforms-2\files-2.1\302ec1d6431f7a49f78541fdc9d52b19\volley-1.1.1\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Trajche\.gradle\caches\transforms-2\files-2.1\0c56505611007af95cf12771e34fa4e8\recyclerview-v7-26.1.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Trajche\.gradle\caches\transforms-2\files-2.1\0c56505611007af95cf12771e34fa4e8\recyclerview-v7-26.1.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Trajche\.gradle\caches\transforms-2\files-2.1\dea1193b635281bdba8e59eb4af72b26\transition-26.1.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Trajche\.gradle\caches\transforms-2\files-2.1\dea1193b635281bdba8e59eb4af72b26\transition-26.1.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.facebook.android:facebook-places:5.15.3] C:\Users\Trajche\.gradle\caches\transforms-2\files-2.1\054042917778dc54e9a1cdbc7783e2ba\facebook-places-5.15.3\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-places:5.15.3] C:\Users\Trajche\.gradle\caches\transforms-2\files-2.1\054042917778dc54e9a1cdbc7783e2ba\facebook-places-5.15.3\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-applinks:5.15.3] C:\Users\Trajche\.gradle\caches\transforms-2\files-2.1\6cddbcc6e53d59ddfe50e9061a790a3d\facebook-applinks-5.15.3\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-applinks:5.15.3] C:\Users\Trajche\.gradle\caches\transforms-2\files-2.1\6cddbcc6e53d59ddfe50e9061a790a3d\facebook-applinks-5.15.3\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-messenger:5.15.3] C:\Users\Trajche\.gradle\caches\transforms-2\files-2.1\47ce61e8c69e6d8bee38fc283f0ca4f8\facebook-messenger-5.15.3\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-messenger:5.15.3] C:\Users\Trajche\.gradle\caches\transforms-2\files-2.1\47ce61e8c69e6d8bee38fc283f0ca4f8\facebook-messenger-5.15.3\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-core:5.15.3] C:\Users\Trajche\.gradle\caches\transforms-2\files-2.1\0e03e0cac6e9be2aa75fb36f6cd3f136\facebook-core-5.15.3\AndroidManifest.xml:28:5-51:19
+MERGED from [com.facebook.android:facebook-core:5.15.3] C:\Users\Trajche\.gradle\caches\transforms-2\files-2.1\0e03e0cac6e9be2aa75fb36f6cd3f136\facebook-core-5.15.3\AndroidManifest.xml:28:5-51:19
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Trajche\.gradle\caches\transforms-2\files-2.1\179f5323169137afef949574776c6071\play-services-base-15.0.1\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Trajche\.gradle\caches\transforms-2\files-2.1\179f5323169137afef949574776c6071\play-services-base-15.0.1\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-places-placereport:15.0.1] C:\Users\Trajche\.gradle\caches\transforms-2\files-2.1\7a84200ac4b1dd8cb75bb39f886fdb14\play-services-places-placereport-15.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:15.0.1] C:\Users\Trajche\.gradle\caches\transforms-2\files-2.1\7a84200ac4b1dd8cb75bb39f886fdb14\play-services-places-placereport-15.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\Trajche\.gradle\caches\transforms-2\files-2.1\5d7304e7af87afbe7e41d28235aae61c\play-services-tasks-15.0.1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\Trajche\.gradle\caches\transforms-2\files-2.1\5d7304e7af87afbe7e41d28235aae61c\play-services-tasks-15.0.1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Trajche\.gradle\caches\transforms-2\files-2.1\7b5b8dcfeac40c34728691491a02e009\play-services-basement-15.0.1\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Trajche\.gradle\caches\transforms-2\files-2.1\7b5b8dcfeac40c34728691491a02e009\play-services-basement-15.0.1\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.installreferrer:installreferrer:1.0] C:\Users\Trajche\.gradle\caches\transforms-2\files-2.1\a17173da477941c7a20d841fbee9879d\installreferrer-1.0\AndroidManifest.xml:11:5-20
+MERGED from [com.android.installreferrer:installreferrer:1.0] C:\Users\Trajche\.gradle\caches\transforms-2\files-2.1\a17173da477941c7a20d841fbee9879d\installreferrer-1.0\AndroidManifest.xml:11:5-20
+	android:supportsRtl
+		ADDED from C:\Users\Trajche\Desktop\MPIP ZA RECOVERY\3buttona(1)(2)(3)\mpip recovery so gotovi fragments 2del\TrackMyLocationUpdated-master\app\src\main\AndroidManifest.xml:18:9-35
+	android:label
+		ADDED from C:\Users\Trajche\Desktop\MPIP ZA RECOVERY\3buttona(1)(2)(3)\mpip recovery so gotovi fragments 2del\TrackMyLocationUpdated-master\app\src\main\AndroidManifest.xml:16:9-41
+	android:roundIcon
+		ADDED from C:\Users\Trajche\Desktop\MPIP ZA RECOVERY\3buttona(1)(2)(3)\mpip recovery so gotovi fragments 2del\TrackMyLocationUpdated-master\app\src\main\AndroidManifest.xml:17:9-54
+	android:icon
+		ADDED from C:\Users\Trajche\Desktop\MPIP ZA RECOVERY\3buttona(1)(2)(3)\mpip recovery so gotovi fragments 2del\TrackMyLocationUpdated-master\app\src\main\AndroidManifest.xml:15:9-43
+	android:allowBackup
+		ADDED from C:\Users\Trajche\Desktop\MPIP ZA RECOVERY\3buttona(1)(2)(3)\mpip recovery so gotovi fragments 2del\TrackMyLocationUpdated-master\app\src\main\AndroidManifest.xml:14:9-35
+	android:theme
+		ADDED from C:\Users\Trajche\Desktop\MPIP ZA RECOVERY\3buttona(1)(2)(3)\mpip recovery so gotovi fragments 2del\TrackMyLocationUpdated-master\app\src\main\AndroidManifest.xml:19:9-40
+activity#com.example.bright.trackmenew.ATravelExperience
+ADDED from C:\Users\Trajche\Desktop\MPIP ZA RECOVERY\3buttona(1)(2)(3)\mpip recovery so gotovi fragments 2del\TrackMyLocationUpdated-master\app\src\main\AndroidManifest.xml:20:9-64
+	android:name
+		ADDED from C:\Users\Trajche\Desktop\MPIP ZA RECOVERY\3buttona(1)(2)(3)\mpip recovery so gotovi fragments 2del\TrackMyLocationUpdated-master\app\src\main\AndroidManifest.xml:20:19-52
+activity#com.example.bright.trackmenew.showPlaces
+ADDED from C:\Users\Trajche\Desktop\MPIP ZA RECOVERY\3buttona(1)(2)(3)\mpip recovery so gotovi fragments 2del\TrackMyLocationUpdated-master\app\src\main\AndroidManifest.xml:21:9-48
+	android:name
+		ADDED from C:\Users\Trajche\Desktop\MPIP ZA RECOVERY\3buttona(1)(2)(3)\mpip recovery so gotovi fragments 2del\TrackMyLocationUpdated-master\app\src\main\AndroidManifest.xml:21:19-45
+activity#com.example.bright.trackmenew.MainActivity
+ADDED from C:\Users\Trajche\Desktop\MPIP ZA RECOVERY\3buttona(1)(2)(3)\mpip recovery so gotovi fragments 2del\TrackMyLocationUpdated-master\app\src\main\AndroidManifest.xml:22:9-28:20
+	android:name
+		ADDED from C:\Users\Trajche\Desktop\MPIP ZA RECOVERY\3buttona(1)(2)(3)\mpip recovery so gotovi fragments 2del\TrackMyLocationUpdated-master\app\src\main\AndroidManifest.xml:22:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Trajche\Desktop\MPIP ZA RECOVERY\3buttona(1)(2)(3)\mpip recovery so gotovi fragments 2del\TrackMyLocationUpdated-master\app\src\main\AndroidManifest.xml:23:13-27:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Trajche\Desktop\MPIP ZA RECOVERY\3buttona(1)(2)(3)\mpip recovery so gotovi fragments 2del\TrackMyLocationUpdated-master\app\src\main\AndroidManifest.xml:24:17-69
+	android:name
+		ADDED from C:\Users\Trajche\Desktop\MPIP ZA RECOVERY\3buttona(1)(2)(3)\mpip recovery so gotovi fragments 2del\TrackMyLocationUpdated-master\app\src\main\AndroidManifest.xml:24:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Trajche\Desktop\MPIP ZA RECOVERY\3buttona(1)(2)(3)\mpip recovery so gotovi fragments 2del\TrackMyLocationUpdated-master\app\src\main\AndroidManifest.xml:26:17-77
+	android:name
+		ADDED from C:\Users\Trajche\Desktop\MPIP ZA RECOVERY\3buttona(1)(2)(3)\mpip recovery so gotovi fragments 2del\TrackMyLocationUpdated-master\app\src\main\AndroidManifest.xml:26:27-74
+meta-data#com.google.android.geo.API_KEY
+ADDED from C:\Users\Trajche\Desktop\MPIP ZA RECOVERY\3buttona(1)(2)(3)\mpip recovery so gotovi fragments 2del\TrackMyLocationUpdated-master\app\src\main\AndroidManifest.xml:37:9-39:55
+	android:value
+		ADDED from C:\Users\Trajche\Desktop\MPIP ZA RECOVERY\3buttona(1)(2)(3)\mpip recovery so gotovi fragments 2del\TrackMyLocationUpdated-master\app\src\main\AndroidManifest.xml:39:13-52
+	android:name
+		ADDED from C:\Users\Trajche\Desktop\MPIP ZA RECOVERY\3buttona(1)(2)(3)\mpip recovery so gotovi fragments 2del\TrackMyLocationUpdated-master\app\src\main\AndroidManifest.xml:38:13-58
+activity#com.example.bright.trackmenew.MapsActivity
+ADDED from C:\Users\Trajche\Desktop\MPIP ZA RECOVERY\3buttona(1)(2)(3)\mpip recovery so gotovi fragments 2del\TrackMyLocationUpdated-master\app\src\main\AndroidManifest.xml:41:9-44:59
+	android:label
+		ADDED from C:\Users\Trajche\Desktop\MPIP ZA RECOVERY\3buttona(1)(2)(3)\mpip recovery so gotovi fragments 2del\TrackMyLocationUpdated-master\app\src\main\AndroidManifest.xml:44:13-56
+	android:exported
+		ADDED from C:\Users\Trajche\Desktop\MPIP ZA RECOVERY\3buttona(1)(2)(3)\mpip recovery so gotovi fragments 2del\TrackMyLocationUpdated-master\app\src\main\AndroidManifest.xml:43:13-36
+	android:name
+		ADDED from C:\Users\Trajche\Desktop\MPIP ZA RECOVERY\3buttona(1)(2)(3)\mpip recovery so gotovi fragments 2del\TrackMyLocationUpdated-master\app\src\main\AndroidManifest.xml:42:13-41
+meta-data#com.facebook.sdk.ApplicationId
+ADDED from C:\Users\Trajche\Desktop\MPIP ZA RECOVERY\3buttona(1)(2)(3)\mpip recovery so gotovi fragments 2del\TrackMyLocationUpdated-master\app\src\main\AndroidManifest.xml:46:9-47:54
+	android:value
+		ADDED from C:\Users\Trajche\Desktop\MPIP ZA RECOVERY\3buttona(1)(2)(3)\mpip recovery so gotovi fragments 2del\TrackMyLocationUpdated-master\app\src\main\AndroidManifest.xml:47:13-52
+	android:name
+		ADDED from C:\Users\Trajche\Desktop\MPIP ZA RECOVERY\3buttona(1)(2)(3)\mpip recovery so gotovi fragments 2del\TrackMyLocationUpdated-master\app\src\main\AndroidManifest.xml:46:20-65
+activity#com.facebook.FacebookActivity
+ADDED from C:\Users\Trajche\Desktop\MPIP ZA RECOVERY\3buttona(1)(2)(3)\mpip recovery so gotovi fragments 2del\TrackMyLocationUpdated-master\app\src\main\AndroidManifest.xml:49:9-52:48
+MERGED from [com.facebook.android:facebook-common:5.15.3] C:\Users\Trajche\.gradle\caches\transforms-2\files-2.1\5bd2685c49270edf9b8b7e67018fb6f7\facebook-common-5.15.3\AndroidManifest.xml:30:9-33:66
+MERGED from [com.facebook.android:facebook-common:5.15.3] C:\Users\Trajche\.gradle\caches\transforms-2\files-2.1\5bd2685c49270edf9b8b7e67018fb6f7\facebook-common-5.15.3\AndroidManifest.xml:30:9-33:66
+	android:label
+		ADDED from C:\Users\Trajche\Desktop\MPIP ZA RECOVERY\3buttona(1)(2)(3)\mpip recovery so gotovi fragments 2del\TrackMyLocationUpdated-master\app\src\main\AndroidManifest.xml:52:13-45
+	android:configChanges
+		ADDED from C:\Users\Trajche\Desktop\MPIP ZA RECOVERY\3buttona(1)(2)(3)\mpip recovery so gotovi fragments 2del\TrackMyLocationUpdated-master\app\src\main\AndroidManifest.xml:50:13-113
+	android:theme
+		ADDED from [com.facebook.android:facebook-common:5.15.3] C:\Users\Trajche\.gradle\caches\transforms-2\files-2.1\5bd2685c49270edf9b8b7e67018fb6f7\facebook-common-5.15.3\AndroidManifest.xml:33:13-63
+	android:name
+		ADDED from C:\Users\Trajche\Desktop\MPIP ZA RECOVERY\3buttona(1)(2)(3)\mpip recovery so gotovi fragments 2del\TrackMyLocationUpdated-master\app\src\main\AndroidManifest.xml:49:19-63
+activity#com.facebook.CustomTabActivity
+ADDED from C:\Users\Trajche\Desktop\MPIP ZA RECOVERY\3buttona(1)(2)(3)\mpip recovery so gotovi fragments 2del\TrackMyLocationUpdated-master\app\src\main\AndroidManifest.xml:53:9-62:20
+MERGED from [com.facebook.android:facebook-common:5.15.3] C:\Users\Trajche\.gradle\caches\transforms-2\files-2.1\5bd2685c49270edf9b8b7e67018fb6f7\facebook-common-5.15.3\AndroidManifest.xml:35:9-49:20
+MERGED from [com.facebook.android:facebook-common:5.15.3] C:\Users\Trajche\.gradle\caches\transforms-2\files-2.1\5bd2685c49270edf9b8b7e67018fb6f7\facebook-common-5.15.3\AndroidManifest.xml:35:9-49:20
+	tools:node
+		ADDED from [com.facebook.android:facebook-common:5.15.3] C:\Users\Trajche\.gradle\caches\transforms-2\files-2.1\5bd2685c49270edf9b8b7e67018fb6f7\facebook-common-5.15.3\AndroidManifest.xml:38:13-31
+	android:exported
+		ADDED from C:\Users\Trajche\Desktop\MPIP ZA RECOVERY\3buttona(1)(2)(3)\mpip recovery so gotovi fragments 2del\TrackMyLocationUpdated-master\app\src\main\AndroidManifest.xml:55:13-36
+	android:name
+		ADDED from C:\Users\Trajche\Desktop\MPIP ZA RECOVERY\3buttona(1)(2)(3)\mpip recovery so gotovi fragments 2del\TrackMyLocationUpdated-master\app\src\main\AndroidManifest.xml:54:13-58
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:@string/fb_login_protocol_scheme
+ADDED from C:\Users\Trajche\Desktop\MPIP ZA RECOVERY\3buttona(1)(2)(3)\mpip recovery so gotovi fragments 2del\TrackMyLocationUpdated-master\app\src\main\AndroidManifest.xml:56:13-61:29
+action#android.intent.action.VIEW
+ADDED from C:\Users\Trajche\Desktop\MPIP ZA RECOVERY\3buttona(1)(2)(3)\mpip recovery so gotovi fragments 2del\TrackMyLocationUpdated-master\app\src\main\AndroidManifest.xml:57:17-69
+	android:name
+		ADDED from C:\Users\Trajche\Desktop\MPIP ZA RECOVERY\3buttona(1)(2)(3)\mpip recovery so gotovi fragments 2del\TrackMyLocationUpdated-master\app\src\main\AndroidManifest.xml:57:25-66
+category#android.intent.category.DEFAULT
+ADDED from C:\Users\Trajche\Desktop\MPIP ZA RECOVERY\3buttona(1)(2)(3)\mpip recovery so gotovi fragments 2del\TrackMyLocationUpdated-master\app\src\main\AndroidManifest.xml:58:17-76
+	android:name
+		ADDED from C:\Users\Trajche\Desktop\MPIP ZA RECOVERY\3buttona(1)(2)(3)\mpip recovery so gotovi fragments 2del\TrackMyLocationUpdated-master\app\src\main\AndroidManifest.xml:58:27-73
+category#android.intent.category.BROWSABLE
+ADDED from C:\Users\Trajche\Desktop\MPIP ZA RECOVERY\3buttona(1)(2)(3)\mpip recovery so gotovi fragments 2del\TrackMyLocationUpdated-master\app\src\main\AndroidManifest.xml:59:17-78
+	android:name
+		ADDED from C:\Users\Trajche\Desktop\MPIP ZA RECOVERY\3buttona(1)(2)(3)\mpip recovery so gotovi fragments 2del\TrackMyLocationUpdated-master\app\src\main\AndroidManifest.xml:59:27-75
+data
+ADDED from C:\Users\Trajche\Desktop\MPIP ZA RECOVERY\3buttona(1)(2)(3)\mpip recovery so gotovi fragments 2del\TrackMyLocationUpdated-master\app\src\main\AndroidManifest.xml:60:17-75
+	android:scheme
+		ADDED from C:\Users\Trajche\Desktop\MPIP ZA RECOVERY\3buttona(1)(2)(3)\mpip recovery so gotovi fragments 2del\TrackMyLocationUpdated-master\app\src\main\AndroidManifest.xml:60:23-72
+uses-sdk
+INJECTED from C:\Users\Trajche\Desktop\MPIP ZA RECOVERY\3buttona(1)(2)(3)\mpip recovery so gotovi fragments 2del\TrackMyLocationUpdated-master\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Trajche\Desktop\MPIP ZA RECOVERY\3buttona(1)(2)(3)\mpip recovery so gotovi fragments 2del\TrackMyLocationUpdated-master\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Trajche\Desktop\MPIP ZA RECOVERY\3buttona(1)(2)(3)\mpip recovery so gotovi fragments 2del\TrackMyLocationUpdated-master\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:26.1.0] C:\Users\Trajche\.gradle\caches\transforms-2\files-2.1\5b44fb940b822d16235c98e3ad1ffbb9\design-26.1.0\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:26.1.0] C:\Users\Trajche\.gradle\caches\transforms-2\files-2.1\5b44fb940b822d16235c98e3ad1ffbb9\design-26.1.0\AndroidManifest.xml:21:5-23:62
+MERGED from [com.facebook.android:facebook-android-sdk:5.15.3] C:\Users\Trajche\.gradle\caches\transforms-2\files-2.1\e083c1011ecb9a3e9f98d24feb4b5232\facebook-android-sdk-5.15.3\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-android-sdk:5.15.3] C:\Users\Trajche\.gradle\caches\transforms-2\files-2.1\e083c1011ecb9a3e9f98d24feb4b5232\facebook-android-sdk-5.15.3\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-login:5.15.3] C:\Users\Trajche\.gradle\caches\transforms-2\files-2.1\2138b478df4d5971ada02e76df442e91\facebook-login-5.15.3\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-login:5.15.3] C:\Users\Trajche\.gradle\caches\transforms-2\files-2.1\2138b478df4d5971ada02e76df442e91\facebook-login-5.15.3\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-share:5.15.3] C:\Users\Trajche\.gradle\caches\transforms-2\files-2.1\e39a2db043d5ef744223e15b78f6b870\facebook-share-5.15.3\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-share:5.15.3] C:\Users\Trajche\.gradle\caches\transforms-2\files-2.1\e39a2db043d5ef744223e15b78f6b870\facebook-share-5.15.3\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-common:5.15.3] C:\Users\Trajche\.gradle\caches\transforms-2\files-2.1\5bd2685c49270edf9b8b7e67018fb6f7\facebook-common-5.15.3\AndroidManifest.xml:25:5-27:41
+MERGED from [com.facebook.android:facebook-common:5.15.3] C:\Users\Trajche\.gradle\caches\transforms-2\files-2.1\5bd2685c49270edf9b8b7e67018fb6f7\facebook-common-5.15.3\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\Trajche\.gradle\caches\transforms-2\files-2.1\72cc02a7fbb4e4eb022060c24d519121\appcompat-v7-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\Trajche\.gradle\caches\transforms-2\files-2.1\72cc02a7fbb4e4eb022060c24d519121\appcompat-v7-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Trajche\.gradle\caches\transforms-2\files-2.1\e45e486d2efc791924965d608e1f3e35\constraint-layout-1.0.2\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Trajche\.gradle\caches\transforms-2\files-2.1\e45e486d2efc791924965d608e1f3e35\constraint-layout-1.0.2\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\Trajche\.gradle\caches\transforms-2\files-2.1\27c4dba95a56485581260edca413d405\play-services-maps-15.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\Trajche\.gradle\caches\transforms-2\files-2.1\27c4dba95a56485581260edca413d405\play-services-maps-15.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-location:15.0.1] C:\Users\Trajche\.gradle\caches\transforms-2\files-2.1\faa1e0ec26a005130e044a5d9ce02e37\play-services-location-15.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:15.0.1] C:\Users\Trajche\.gradle\caches\transforms-2\files-2.1\faa1e0ec26a005130e044a5d9ce02e37\play-services-location-15.0.1\AndroidManifest.xml:5:5-44
+MERGED from [de.hdodenhof:circleimageview:3.1.0] C:\Users\Trajche\.gradle\caches\transforms-2\files-2.1\adeb9857bb7bfd02c06a591fdc46d5a6\circleimageview-3.1.0\AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:3.1.0] C:\Users\Trajche\.gradle\caches\transforms-2\files-2.1\adeb9857bb7bfd02c06a591fdc46d5a6\circleimageview-3.1.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.volley:volley:1.1.1] C:\Users\Trajche\.gradle\caches\transforms-2\files-2.1\302ec1d6431f7a49f78541fdc9d52b19\volley-1.1.1\AndroidManifest.xml:7:5-43
+MERGED from [com.android.volley:volley:1.1.1] C:\Users\Trajche\.gradle\caches\transforms-2\files-2.1\302ec1d6431f7a49f78541fdc9d52b19\volley-1.1.1\AndroidManifest.xml:7:5-43
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Trajche\.gradle\caches\transforms-2\files-2.1\0c56505611007af95cf12771e34fa4e8\recyclerview-v7-26.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Trajche\.gradle\caches\transforms-2\files-2.1\0c56505611007af95cf12771e34fa4e8\recyclerview-v7-26.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Trajche\.gradle\caches\transforms-2\files-2.1\0f3b631fa1b04ce6c3f19395e7c8308f\cardview-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Trajche\.gradle\caches\transforms-2\files-2.1\0f3b631fa1b04ce6c3f19395e7c8308f\cardview-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Trajche\.gradle\caches\transforms-2\files-2.1\dea1193b635281bdba8e59eb4af72b26\transition-26.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Trajche\.gradle\caches\transforms-2\files-2.1\dea1193b635281bdba8e59eb4af72b26\transition-26.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.android:facebook-places:5.15.3] C:\Users\Trajche\.gradle\caches\transforms-2\files-2.1\054042917778dc54e9a1cdbc7783e2ba\facebook-places-5.15.3\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-places:5.15.3] C:\Users\Trajche\.gradle\caches\transforms-2\files-2.1\054042917778dc54e9a1cdbc7783e2ba\facebook-places-5.15.3\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-applinks:5.15.3] C:\Users\Trajche\.gradle\caches\transforms-2\files-2.1\6cddbcc6e53d59ddfe50e9061a790a3d\facebook-applinks-5.15.3\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-applinks:5.15.3] C:\Users\Trajche\.gradle\caches\transforms-2\files-2.1\6cddbcc6e53d59ddfe50e9061a790a3d\facebook-applinks-5.15.3\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-messenger:5.15.3] C:\Users\Trajche\.gradle\caches\transforms-2\files-2.1\47ce61e8c69e6d8bee38fc283f0ca4f8\facebook-messenger-5.15.3\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-messenger:5.15.3] C:\Users\Trajche\.gradle\caches\transforms-2\files-2.1\47ce61e8c69e6d8bee38fc283f0ca4f8\facebook-messenger-5.15.3\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-core:5.15.3] C:\Users\Trajche\.gradle\caches\transforms-2\files-2.1\0e03e0cac6e9be2aa75fb36f6cd3f136\facebook-core-5.15.3\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-core:5.15.3] C:\Users\Trajche\.gradle\caches\transforms-2\files-2.1\0e03e0cac6e9be2aa75fb36f6cd3f136\facebook-core-5.15.3\AndroidManifest.xml:24:5-26:41
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Trajche\.gradle\caches\transforms-2\files-2.1\179f5323169137afef949574776c6071\play-services-base-15.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Trajche\.gradle\caches\transforms-2\files-2.1\179f5323169137afef949574776c6071\play-services-base-15.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:15.0.1] C:\Users\Trajche\.gradle\caches\transforms-2\files-2.1\7a84200ac4b1dd8cb75bb39f886fdb14\play-services-places-placereport-15.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:15.0.1] C:\Users\Trajche\.gradle\caches\transforms-2\files-2.1\7a84200ac4b1dd8cb75bb39f886fdb14\play-services-places-placereport-15.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\Trajche\.gradle\caches\transforms-2\files-2.1\5d7304e7af87afbe7e41d28235aae61c\play-services-tasks-15.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\Trajche\.gradle\caches\transforms-2\files-2.1\5d7304e7af87afbe7e41d28235aae61c\play-services-tasks-15.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Trajche\.gradle\caches\transforms-2\files-2.1\7b5b8dcfeac40c34728691491a02e009\play-services-basement-15.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Trajche\.gradle\caches\transforms-2\files-2.1\7b5b8dcfeac40c34728691491a02e009\play-services-basement-15.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\Trajche\.gradle\caches\transforms-2\files-2.1\2edbab73abb0ed010ac0c1382290b7fd\support-v4-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\Trajche\.gradle\caches\transforms-2\files-2.1\2edbab73abb0ed010ac0c1382290b7fd\support-v4-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\Trajche\.gradle\caches\transforms-2\files-2.1\c8a01efa0e07374f5ed15f720d18115a\support-fragment-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\Trajche\.gradle\caches\transforms-2\files-2.1\c8a01efa0e07374f5ed15f720d18115a\support-fragment-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\Trajche\.gradle\caches\transforms-2\files-2.1\f2b9cb991ec44388657d9f7c0c842b78\support-core-utils-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\Trajche\.gradle\caches\transforms-2\files-2.1\f2b9cb991ec44388657d9f7c0c842b78\support-core-utils-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:27.0.2] C:\Users\Trajche\.gradle\caches\transforms-2\files-2.1\5ff07994d3acfd5db59372b80f7c8fee\customtabs-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:27.0.2] C:\Users\Trajche\.gradle\caches\transforms-2\files-2.1\5ff07994d3acfd5db59372b80f7c8fee\customtabs-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\Trajche\.gradle\caches\transforms-2\files-2.1\c632e57e5b62eb3a0ebaba15a9df6673\animated-vector-drawable-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\Trajche\.gradle\caches\transforms-2\files-2.1\c632e57e5b62eb3a0ebaba15a9df6673\animated-vector-drawable-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\Trajche\.gradle\caches\transforms-2\files-2.1\ff5f91fc123e28e3f0306f00a86c1639\support-core-ui-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\Trajche\.gradle\caches\transforms-2\files-2.1\ff5f91fc123e28e3f0306f00a86c1639\support-core-ui-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\Trajche\.gradle\caches\transforms-2\files-2.1\222c27d2ef82d01f4dd9191aeab9b795\support-media-compat-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\Trajche\.gradle\caches\transforms-2\files-2.1\222c27d2ef82d01f4dd9191aeab9b795\support-media-compat-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\Trajche\.gradle\caches\transforms-2\files-2.1\8a5906e891827c98941b3a565266ab69\support-vector-drawable-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\Trajche\.gradle\caches\transforms-2\files-2.1\8a5906e891827c98941b3a565266ab69\support-vector-drawable-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\Trajche\.gradle\caches\transforms-2\files-2.1\33573a782a2830d26ff38c0ad8420cc7\support-compat-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\Trajche\.gradle\caches\transforms-2\files-2.1\33573a782a2830d26ff38c0ad8420cc7\support-compat-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.installreferrer:installreferrer:1.0] C:\Users\Trajche\.gradle\caches\transforms-2\files-2.1\a17173da477941c7a20d841fbee9879d\installreferrer-1.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.installreferrer:installreferrer:1.0] C:\Users\Trajche\.gradle\caches\transforms-2\files-2.1\a17173da477941c7a20d841fbee9879d\installreferrer-1.0\AndroidManifest.xml:5:5-7:41
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\Trajche\.gradle\caches\transforms-2\files-2.1\f389a71938b42d8f5c8a19c10fecc48e\runtime-1.0.3\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\Trajche\.gradle\caches\transforms-2\files-2.1\f389a71938b42d8f5c8a19c10fecc48e\runtime-1.0.3\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\Trajche\Desktop\MPIP ZA RECOVERY\3buttona(1)(2)(3)\mpip recovery so gotovi fragments 2del\TrackMyLocationUpdated-master\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Trajche\Desktop\MPIP ZA RECOVERY\3buttona(1)(2)(3)\mpip recovery so gotovi fragments 2del\TrackMyLocationUpdated-master\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.1.0] C:\Users\Trajche\.gradle\caches\transforms-2\files-2.1\5b44fb940b822d16235c98e3ad1ffbb9\design-26.1.0\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from C:\Users\Trajche\Desktop\MPIP ZA RECOVERY\3buttona(1)(2)(3)\mpip recovery so gotovi fragments 2del\TrackMyLocationUpdated-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Trajche\Desktop\MPIP ZA RECOVERY\3buttona(1)(2)(3)\mpip recovery so gotovi fragments 2del\TrackMyLocationUpdated-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Trajche\Desktop\MPIP ZA RECOVERY\3buttona(1)(2)(3)\mpip recovery so gotovi fragments 2del\TrackMyLocationUpdated-master\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Trajche\Desktop\MPIP ZA RECOVERY\3buttona(1)(2)(3)\mpip recovery so gotovi fragments 2del\TrackMyLocationUpdated-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Trajche\Desktop\MPIP ZA RECOVERY\3buttona(1)(2)(3)\mpip recovery so gotovi fragments 2del\TrackMyLocationUpdated-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Trajche\Desktop\MPIP ZA RECOVERY\3buttona(1)(2)(3)\mpip recovery so gotovi fragments 2del\TrackMyLocationUpdated-master\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:26.1.0] C:\Users\Trajche\.gradle\caches\transforms-2\files-2.1\5b44fb940b822d16235c98e3ad1ffbb9\design-26.1.0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Trajche\.gradle\caches\transforms-2\files-2.1\0c56505611007af95cf12771e34fa4e8\recyclerview-v7-26.1.0\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Trajche\.gradle\caches\transforms-2\files-2.1\0c56505611007af95cf12771e34fa4e8\recyclerview-v7-26.1.0\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Trajche\.gradle\caches\transforms-2\files-2.1\dea1193b635281bdba8e59eb4af72b26\transition-26.1.0\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Trajche\.gradle\caches\transforms-2\files-2.1\dea1193b635281bdba8e59eb4af72b26\transition-26.1.0\AndroidManifest.xml:23:9-25:38
+	android:value
+		ADDED from [com.android.support:design:26.1.0] C:\Users\Trajche\.gradle\caches\transforms-2\files-2.1\5b44fb940b822d16235c98e3ad1ffbb9\design-26.1.0\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:design:26.1.0] C:\Users\Trajche\.gradle\caches\transforms-2\files-2.1\5b44fb940b822d16235c98e3ad1ffbb9\design-26.1.0\AndroidManifest.xml:27:13-51
+activity#com.facebook.CustomTabMainActivity
+ADDED from [com.facebook.android:facebook-common:5.15.3] C:\Users\Trajche\.gradle\caches\transforms-2\files-2.1\5bd2685c49270edf9b8b7e67018fb6f7\facebook-common-5.15.3\AndroidManifest.xml:34:9-71
+	android:name
+		ADDED from [com.facebook.android:facebook-common:5.15.3] C:\Users\Trajche\.gradle\caches\transforms-2\files-2.1\5bd2685c49270edf9b8b7e67018fb6f7\facebook-common-5.15.3\AndroidManifest.xml:34:19-68
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:cct.${applicationId}+data:scheme:fbconnect
+ADDED from [com.facebook.android:facebook-common:5.15.3] C:\Users\Trajche\.gradle\caches\transforms-2\files-2.1\5bd2685c49270edf9b8b7e67018fb6f7\facebook-common-5.15.3\AndroidManifest.xml:39:13-48:29
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:cct.com.example.bright.trackmenew+data:scheme:fbconnect
+ADDED from [com.facebook.android:facebook-common:5.15.3] C:\Users\Trajche\.gradle\caches\transforms-2\files-2.1\5bd2685c49270edf9b8b7e67018fb6f7\facebook-common-5.15.3\AndroidManifest.xml:39:13-48:29
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\Trajche\.gradle\caches\transforms-2\files-2.1\27c4dba95a56485581260edca413d405\play-services-maps-15.0.1\AndroidManifest.xml:23:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\Trajche\.gradle\caches\transforms-2\files-2.1\27c4dba95a56485581260edca413d405\play-services-maps-15.0.1\AndroidManifest.xml:23:22-76
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\Trajche\.gradle\caches\transforms-2\files-2.1\27c4dba95a56485581260edca413d405\play-services-maps-15.0.1\AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\Trajche\.gradle\caches\transforms-2\files-2.1\27c4dba95a56485581260edca413d405\play-services-maps-15.0.1\AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\Trajche\.gradle\caches\transforms-2\files-2.1\27c4dba95a56485581260edca413d405\play-services-maps-15.0.1\AndroidManifest.xml:28:9-32
+provider#com.facebook.internal.FacebookInitProvider
+ADDED from [com.facebook.android:facebook-core:5.15.3] C:\Users\Trajche\.gradle\caches\transforms-2\files-2.1\0e03e0cac6e9be2aa75fb36f6cd3f136\facebook-core-5.15.3\AndroidManifest.xml:39:9-42:40
+	android:authorities
+		ADDED from [com.facebook.android:facebook-core:5.15.3] C:\Users\Trajche\.gradle\caches\transforms-2\files-2.1\0e03e0cac6e9be2aa75fb36f6cd3f136\facebook-core-5.15.3\AndroidManifest.xml:41:13-72
+	android:exported
+		ADDED from [com.facebook.android:facebook-core:5.15.3] C:\Users\Trajche\.gradle\caches\transforms-2\files-2.1\0e03e0cac6e9be2aa75fb36f6cd3f136\facebook-core-5.15.3\AndroidManifest.xml:42:13-37
+	android:name
+		ADDED from [com.facebook.android:facebook-core:5.15.3] C:\Users\Trajche\.gradle\caches\transforms-2\files-2.1\0e03e0cac6e9be2aa75fb36f6cd3f136\facebook-core-5.15.3\AndroidManifest.xml:40:13-70
+receiver#com.facebook.CurrentAccessTokenExpirationBroadcastReceiver
+ADDED from [com.facebook.android:facebook-core:5.15.3] C:\Users\Trajche\.gradle\caches\transforms-2\files-2.1\0e03e0cac6e9be2aa75fb36f6cd3f136\facebook-core-5.15.3\AndroidManifest.xml:44:9-50:20
+	android:exported
+		ADDED from [com.facebook.android:facebook-core:5.15.3] C:\Users\Trajche\.gradle\caches\transforms-2\files-2.1\0e03e0cac6e9be2aa75fb36f6cd3f136\facebook-core-5.15.3\AndroidManifest.xml:46:13-37
+	android:name
+		ADDED from [com.facebook.android:facebook-core:5.15.3] C:\Users\Trajche\.gradle\caches\transforms-2\files-2.1\0e03e0cac6e9be2aa75fb36f6cd3f136\facebook-core-5.15.3\AndroidManifest.xml:45:13-86
+intent-filter#action:name:com.facebook.sdk.ACTION_CURRENT_ACCESS_TOKEN_CHANGED
+ADDED from [com.facebook.android:facebook-core:5.15.3] C:\Users\Trajche\.gradle\caches\transforms-2\files-2.1\0e03e0cac6e9be2aa75fb36f6cd3f136\facebook-core-5.15.3\AndroidManifest.xml:47:13-49:29
+action#com.facebook.sdk.ACTION_CURRENT_ACCESS_TOKEN_CHANGED
+ADDED from [com.facebook.android:facebook-core:5.15.3] C:\Users\Trajche\.gradle\caches\transforms-2\files-2.1\0e03e0cac6e9be2aa75fb36f6cd3f136\facebook-core-5.15.3\AndroidManifest.xml:48:17-95
+	android:name
+		ADDED from [com.facebook.android:facebook-core:5.15.3] C:\Users\Trajche\.gradle\caches\transforms-2\files-2.1\0e03e0cac6e9be2aa75fb36f6cd3f136\facebook-core-5.15.3\AndroidManifest.xml:48:25-92
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Trajche\.gradle\caches\transforms-2\files-2.1\179f5323169137afef949574776c6071\play-services-base-15.0.1\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Trajche\.gradle\caches\transforms-2\files-2.1\179f5323169137afef949574776c6071\play-services-base-15.0.1\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Trajche\.gradle\caches\transforms-2\files-2.1\179f5323169137afef949574776c6071\play-services-base-15.0.1\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Trajche\.gradle\caches\transforms-2\files-2.1\179f5323169137afef949574776c6071\play-services-base-15.0.1\AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Trajche\.gradle\caches\transforms-2\files-2.1\7b5b8dcfeac40c34728691491a02e009\play-services-basement-15.0.1\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Trajche\.gradle\caches\transforms-2\files-2.1\7b5b8dcfeac40c34728691491a02e009\play-services-basement-15.0.1\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Trajche\.gradle\caches\transforms-2\files-2.1\7b5b8dcfeac40c34728691491a02e009\play-services-basement-15.0.1\AndroidManifest.xml:24:13-58
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.android.installreferrer:installreferrer:1.0] C:\Users\Trajche\.gradle\caches\transforms-2\files-2.1\a17173da477941c7a20d841fbee9879d\installreferrer-1.0\AndroidManifest.xml:9:5-110
+	android:name
+		ADDED from [com.android.installreferrer:installreferrer:1.0] C:\Users\Trajche\.gradle\caches\transforms-2\files-2.1\a17173da477941c7a20d841fbee9879d\installreferrer-1.0\AndroidManifest.xml:9:22-107

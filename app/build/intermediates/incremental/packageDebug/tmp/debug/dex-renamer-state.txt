@@ -1,0 +1,4 @@
+#Sun Aug 09 07:19:05 CEST 2020
+base.0=C\:\\Users\\Trajche\\Desktop\\MPIP ZA RECOVERY\\3buttona(1)(2)(3)\\mpip recovery so gotovi fragments 2del\\TrackMyLocationUpdated-master\\app\\build\\intermediates\\dex\\debug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
